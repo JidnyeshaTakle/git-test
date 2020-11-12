@@ -5,6 +5,6 @@ hii there this is from documents folder
 =======
 added this line -- d drive base folder.
 >>>>>>> ef286dd703427607c9e9b59563cea2ef2ad302e4
-
+jklmn
 commiting thrugh bash
 added new line to test ssh key
